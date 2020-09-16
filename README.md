@@ -11,18 +11,18 @@ custom_sort:
 
 ```
 All selected parameters will be moved to locals
-
+```
 param.name = Name no slugize
 param.path = slugize path
-
-Example:
+```
+**Example:**
 _config.yml
 ```
 custom_sort:
   params: [collection]
 
 ```
-_particle/menu.js
+_partial/menu.js
 ```
 <% site.collection.forEach(coll=>{ %>
     <a href="/<%= coll.path %>"><%= coll.name %></a> 
