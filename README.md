@@ -1,4 +1,6 @@
 # hexo-custom-sort
+[![Downloads](https://img.shields.io/npm/dm/hexo-custom-sort.svg)](https://www.npmjs.com/package/hexo-custom-sort) [![npm](https://img.shields.io/npm/v/hexo-custom-sort.svg)](https://www.npmjs.com/package/hexo-custom-sort) [![LICENSE](https://img.shields.io/npm/l/hexo-custom-sort.svg)](LICENSE)
+
 Plugin helps to sort posts by required fields 
 ## Usage
 
