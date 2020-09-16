@@ -1,0 +1,23 @@
+{
+  "name": "hexo-custom-sort",
+  "version": "1.0.0",
+  "description": "Hexo custom sort",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimonpanik/hexo-custom-sort.git"
+  },
+  "keywords": [
+    "sort",
+    "locals"
+  ],
+  "author": "dimonpanik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimonpanik/hexo-custom-sort/issues"
+  },
+  "homepage": "https://github.com/dimonpanik/hexo-custom-sort#readme"
+}
